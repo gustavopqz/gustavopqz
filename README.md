@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gustavopqz
-- 👀 I’m interested in JavaScript, Python, HTML, CSS, REACTJS, NODEJS
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in JavaScript, Python, HTML, CSS, REACTJS, NODEJS, SQL SERVER, MONGODB
 - 📫 How to reach me dev.gustavo@outlook.com
 
 <!---
