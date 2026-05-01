@@ -2,20 +2,22 @@
 # Hi, I'm Gustavo Pasqua
 
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopqz&show_icons=true&theme=dark&hide_rank=true&hide=issues,contribs&show=reviews" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopqz&show_icons=true&theme=dark&hide_rank=true&hide=issues,contribs" />
 </picture>
+
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopqz&theme=dark&langs_count=6&exclude_repo=pasqua_unifan&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopqz&theme=dark&langs_count=6&layout=compact" />
 </picture>
 
 <div>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
@@ -37,10 +39,11 @@
 # Olá, me chamo Gustavo Pasqua
 
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopqz&show_icons=true&theme=dark&hide_rank=true&hide=issues,contribs&show=reviews&custom_title=Status%20GitHub%20de%20Gustavo%20Pasqua" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopqz&show_icons=true&theme=dark&hide_rank=true&hide=issues,contribs" />
 </picture>
+
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopqz&theme=dark&langs_count=6&exclude_repo=pasqua_unifan&layout=compact&custom_title=Linguagens%20mais%20utilizadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopqz&theme=dark&langs_count=6&layout=compact" />
 </picture>
 
 <div>
